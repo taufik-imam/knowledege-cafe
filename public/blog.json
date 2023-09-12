@@ -1,0 +1,53 @@
+[
+    {
+      "id": "12345",
+      "cover": "https://i.ibb.co/ygXLTY8/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "title": "The Secret Garden",
+      "author": "Jane Doe",
+      "author_image": "https://i.ibb.co/r4Fvx8x/icon-256x256.png",
+      "posted_date": "September 5, 2023",
+      "reading_time_hours": 2,
+      "hashtags": ["#Mystery", "#Fiction", "#Adventure"]
+    },
+    {
+      "id": "67890",
+      "cover": "https://i.ibb.co/Rbw61PV/top-view-workspace-with-agenda-pens.jpg",
+      "title": "Lost in Time",
+      "author": "John Smith",
+      "author_image": "https://i.ibb.co/r4Fvx8x/icon-256x256.png",
+      "posted_date": "August 20, 2023",
+      "reading_time_hours": 3.5,
+      "hashtags": ["#ScienceFiction", "#TimeTravel", "#Adventure"]
+    },
+    {
+      "id": "54321",
+      "cover": "https://i.ibb.co/hLG5yCq/top-view-workspace-with-notepad-plate-orange-slices.jpg",
+      "title": "The Enchanted Forest",
+      "author": "Emily Johnson",
+      "author_image": "https://i.ibb.co/r4Fvx8x/icon-256x256.png",
+      "posted_date": "July 10, 2023",
+      "reading_time_hours": 1.5,
+      "hashtags": ["#Fantasy", "#Magic", "#Nature"]
+    },
+    {
+      "id": "98765",
+      "cover": "https://i.ibb.co/Rbw61PV/top-view-workspace-with-agenda-pens.jpg",
+      "title": "Murder on the Orient Express",
+      "author": "David Williams",
+      "author_image": "[Link to yet another generic author image]",
+      "posted_date": "June 1, 2023",
+      "reading_time_hours": 4,
+      "hashtags": ["#Mystery", "#Detective", "#Crime"]
+    },
+    {
+      "id": "24680",
+      "cover": "https://i.ibb.co/ygXLTY8/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "title": "The Art of Cooking",
+      "author": "Sarah Miller",
+      "author_image": "https://i.ibb.co/r4Fvx8x/icon-256x256.png",
+      "posted_date": "May 15, 2023",
+      "reading_time_hours": 1,
+      "hashtags": ["#Cookbook", "#Culinary", "#Recipes"]
+    }
+  ]
+  
